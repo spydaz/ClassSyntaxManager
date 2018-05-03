@@ -8,12 +8,12 @@ Imports System.Runtime.InteropServices
 
 ' Review the values of the assembly attributes
 
-<Assembly: AssemblyTitle("ClassSyntaxManager")> 
-<Assembly: AssemblyDescription("")> 
-<Assembly: AssemblyCompany("")> 
-<Assembly: AssemblyProduct("ClassSyntaxManager")> 
-<Assembly: AssemblyCopyright("Copyright ©  2018")> 
-<Assembly: AssemblyTrademark("")> 
+<Assembly: AssemblyTitle("ClassSyntaxManager/TypeReader")>
+<Assembly: AssemblyDescription("Syntax Manager (used to highlight text in a RichtextBox) / Reads Objects And Extractsnames and syntax of Public functions")>
+<Assembly: AssemblyCompany("SpydazWebAI")>
+<Assembly: AssemblyProduct("SpydazWebAI ClassSyntaxManager")>
+<Assembly: AssemblyCopyright("SpydazWebAI Copyright ©  2018")>
+<Assembly: AssemblyTrademark("SpydazWebAI TM ©  2018")>
 
 <Assembly: ComVisible(False)>
 
